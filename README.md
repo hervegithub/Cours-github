@@ -1,3 +1,3 @@
 # Cours-github
 
-Ceci est le dépôt reservé à notre serie de vidéo sur les outils Git & Github. 
+This repository is reserve for our video series on Git & Github tools.
